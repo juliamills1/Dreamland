@@ -2,7 +2,7 @@
 See <a href="https://ccrma.stanford.edu/~jjmills/Repo/Dreamland.html">project webpage</a> for build download, demo video, and further information.
 
 ------------
-<h3> Controls </h3>
+<h3> Keyboard Controls </h3>
 <li><strong>Canyon</strong>: Walk forwards/backwards using up/down arrow keys; run using
 shift; look around using left/right arrow keys</li>
 <li><strong>Doors</strong>: Walk forwards using up arrow key (after timer rings)</li>
