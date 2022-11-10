@@ -1,4 +1,5 @@
-<h1> Dreamland: Interactive video essay</h1>
+<h1>Dreamland</h1>
+<h2>Interactive video essay</h2>
 See <a href="https://ccrma.stanford.edu/~jjmills/Repo/Dreamland.html">project webpage</a> for build download, demo video, and further information.
 
 ------------
