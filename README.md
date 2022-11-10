@@ -1,4 +1,4 @@
-<h1> Dreamland: Dream Simulator</h1>
+<h1> Dreamland: Interactive video essay</h1>
 See <a href="https://ccrma.stanford.edu/~jjmills/Repo/Dreamland.html">project webpage</a> for build download, demo video, and further information.
 
 ------------
